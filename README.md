@@ -1,5 +1,3 @@
-##PMM
-
 Name: Profession Material Multiplier (PMM)
 
 Author:   soapy_enigma/SoapyEnigma (Discord/Github)
